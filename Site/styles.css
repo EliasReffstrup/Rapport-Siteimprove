@@ -1,10 +1,27 @@
 body{
 	background-color: #f2f2f2;
-	/*background-image: url("media/bgtexturefullres.jpg");
-	background-size: cover;*/
+	background-image: url("media/bgtexturefullres.jpg");
+	background-size: stretch;
 	margin: 0px;
 	padding: 0px;
 	}
+	
+.wrapper{
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	text-align: center;
+	}
+	
+
+
+/*div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	background-color: #f2f2f2;
+	}*/
 
 p{
 	font-family: Verdana, serif;
@@ -13,14 +30,7 @@ p{
 	color: #000000;
 	}
 
-div.{
-	position: absolute;
-	left: 20%;
-	top: 10%;
-	}
-
 h1{
-	text-align: center;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 1.6em;
 	}
@@ -32,17 +42,26 @@ h2{
 	}
 	
 h4{
-	text-align: center;
+	display: flex;
+	justify-content: center;
 	font-family: "Times New Roman", serif;
  }
 
-table{
+/*table{
 	margin-top: 20px;
 	border-collapse: collapse;
 	width: 50%;
+	height: 100%
 	margin-right: 25%;
 	margin-left: 25%;
-	}
+	}*/
+
+table{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+ }
+	
 
 td, th{
   font-family: Verdana, serif;
