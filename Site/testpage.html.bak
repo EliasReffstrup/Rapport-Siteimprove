@@ -4,9 +4,14 @@
 		<title>Test page</title>
 	</head>
 	
-	<body>
+	<body style="background-color: white;">
 		
-		<div style="position: absolute; left: 200px; top: 200px; height: 10px; width: 200px; padding: 1em;">layer stuff</div> 
+		<table style="background-color: silver;" border="1px solid black" border-collapse="collapse">
+			<tr>
+				<td>Hello123</td>
+			</tr>
+		</table>
+			
 		
 	</body>
 </html>
