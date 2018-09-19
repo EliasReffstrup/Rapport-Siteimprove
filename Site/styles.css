@@ -1,0 +1,96 @@
+body{
+	background-color: #f2f2f2;
+	/*background-image: url("media/bgtexturefullres.jpg");
+	background-size: cover;*/
+	margin: 0px;
+	padding: 0px;
+	}
+
+p{
+	font-family: Verdana, serif;
+	text-align: center;
+	font-size: 1em;
+	color: #000000;
+	}
+
+div.{
+	position: absolute;
+	left: 20%;
+	top: 10%;
+	}
+
+h1{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.6em;
+	}
+
+h2{
+	text-align: center;
+	font-family: "Times New Roman", serif;
+	font-size: 1.5em;
+	}
+	
+h4{
+	text-align: center;
+	font-family: "Times New Roman", serif;
+ }
+
+table{
+	margin-top: 20px;
+	border-collapse: collapse;
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+	}
+
+td, th{
+  font-family: Verdana, serif;
+  text-align: center;
+	font-size: 1em;
+  padding: 10px;
+	width: 10%;
+	}
+
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.pright{
+	font-family: Verdana, serif;
+	text-align: left;
+	margin-left:10%;
+	font-size: 1em;
+	color: #000000;
+	}
+
+.imgright{
+	display: block;
+	margin-left: 70%;
+	margin-right: 20%;
+	}
+
+.button{
+	border: 1px solid;
+	border-radius: 4px;
+	padding: 2px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1em;
+	}
+
+a:link{
+	color: #000000;
+	text-decoration: none;
+	}
+
+a:visited{
+	color: #A9A9A9;
+	}
+
+tr:nth-child(even){
+	background-color: #FFFFFF;
+	}

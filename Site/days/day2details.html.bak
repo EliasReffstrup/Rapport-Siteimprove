@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="da">
+	<head>
+		<meta charset="utf-8">
+		<title>Dag 2</title>
+		<link rel="stylesheet" href="../styles.css">
+		<link rel="icon" href="../media/icon.png">
+	</head>
+	
+	
+<body>
+	
+	<h1>Dag 2</h1>
+	
+	<p class="pright">Jeg blev igen hentet af Nicolaj.
+		Vi kørte hen til Siteimprove.
+		Da jeg ankom satte jeg mig med det samme ned og begyndte at læse
+		op på, og ændre, mit stylesheet.
+		</p>
+		
+		<img src="../media/day2img.png" alt="hvordan stylesheetet ser ud" class="imgright">
+	
+</body>
+
+</html>
